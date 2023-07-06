@@ -1,0 +1,38 @@
+{
+  "name": "react-native-animated-button",
+  "version": "1.0.0",
+  "description": "react native customizable animated button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prem-pb/react-native-animated-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "react native component",
+    "react native animated button",
+    "react native animate button",
+    "react-native-steps-progress",
+    "ios",
+    "android",
+    "stepper",
+    "progress",
+    "progress steps"
+  ],
+  "author": "Govinda Biswas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prem-pb/react-native-animated-button/issues"
+  },
+  "homepage": "https://github.com/prem-pb/react-native-animated-button#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.76.7"
+  }
+}
